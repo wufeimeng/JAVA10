@@ -1,4 +1,4 @@
-package hw01;
+package Java10;
 class Car
  {
  protected String owner;
@@ -33,7 +33,7 @@ class Car
   System.out.println("車身顏色:"+color);
   }
   }
-public class class321 {
+public class class17 {
 	
 	public static void main(String[] args) {
 		CColor mycar=new CColor("Riaan","A1-2345","Black");
